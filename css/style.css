@@ -1,0 +1,315 @@
+
+header{
+	margin: 50px;
+}
+
+.htmllogo{
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+
+
+li{
+	display: inline-block;
+	margin-left: 90px;
+	
+	}
+	a{
+		color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+
+	}
+
+	.active{
+		color: #4E6FAE;
+	}
+
+	.s-1{
+		margin: 50px;
+	}
+
+
+	.my26{
+		width: 50px;
+		height: 50px;
+		background-color: #5012D5;
+		color: #84FF81;
+		font-family: Helvetica;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		padding: 10px;
+		margin-bottom: 20px;
+
+
+
+	}
+	.h3{
+		color: #8D81FF;
+ ;
+		font-family: FiraGO;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+	}
+	h4{
+		font-family: FiraGO;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: normal;
+	color: #4E6FAE;
+	margin-bottom: 14px;
+;
+	
+	.codepic{
+		vertical-align: top;
+		margin-right: 66px;
+	}
+	}
+	.pdiv{
+		display: inline-block;
+		width: 778px;
+		vertical-align: top;
+		margin-left: 66px;
+
+
+	}
+	.pp{
+		margin-bottom: 19px;
+		color: #4E6FAE;
+		font-family: FiraGO;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 19.2px;
+
+
+;
+	}
+	article{
+		margin-bottom: 154px;
+	}
+	.p{
+		margin-bottom: 19px;
+		color: #4E6FAE;
+		font-family: FiraGO;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 19.2px;
+		display: inline-block;
+		width: 778px;
+		vertical-align: top;
+		margin-left: 66px;
+
+	}
+	.jp{
+		width: 1021px;
+		height: 148px;
+		top: 1291px;
+		left: -757px;
+		gap: 0px;
+		opacity: 0px;
+		font-family: FiraGO;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 19.2px;
+		text-align: left;
+		color: #4E6FAE ;
+		margin-top: 32px;
+
+
+	}
+	.image{
+		margin-bottom: 32px;
+	}
+	footer{
+		margin-top: 143px ;
+		margin-right:52px ;
+		margin-bottom:286px ;
+		margin-left:98px ;
+	}
+	.line{
+		margin-right:50px ;
+		margin-left:50px ;
+	}
+.h3{
+	display: inline-block;
+	margin-left: 50px;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 31.2px;
+	text-align: left;
+	color: #4E6FAE;
+
+}
+
+
+.lin{
+	display: inline-block;
+	width: 24px;
+	height: 25px;
+	top: 260px;
+	
+	
+}
+.h4{
+	display: inline-block;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 31.2px;
+	text-align: left;
+	color: #4E6FAE;
+
+
+}
+
+
+
+.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.html2pic{
+		margin-top:112 ;
+		margin-bottom: ;
+		margin-left:194px ;
+
+	}
+
+	.tx{
+		width: 335px;
+		height: 95px;
+		font-size: 16px;
+		font-weight: 400px;
+		line-height: 19px;
+		color: #7E8898;
+		margin-left: 200px;
+		margin-top: 20px;
+
+
+
+	
+	}
+	h1{
+		margin-top: 65px;
+	}
+
+
+	.card1{
+		width: 500px;
+		height: 192px;
+		background-color: #E7E7E7;
+		display: inline-block;
+		margin-left: 200px;
+		margin-right: 50px;
+		padding: 15px;
+}
+		.card2{
+		width: 500px;
+		height: 192px;
+		background-color: #E7E7E7;
+		display: inline-block;
+		
+		padding: 15px;
+;
+	}
+	.cardh3{
+		font-family: Helvetica Neue LT GEO;
+		font-size: 20px;
+		font-weight: 200px;
+		line-height: 24.14px;
+		text-align: left;
+		color:  #3F4145;
+		margin-bottom: 15px;
+
+
+
+	}
+	.cardp{
+		display: inline-block;
+		width: 335px;
+		color:  #7E8898;
+		font-family: Helvetica Neue LT GEO;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 19.31px;
+		text-align: left;
+
+;
+	}
+	.cardimg{
+		margin-right: 37px;
+	}
+	.sec{
+		padding-top: 110px;
+		padding-bottom: 110;
+		padding-left: 100px;
+		background-color: #E7E7E7;
+	}
+
+
+	.info-box{
+		display: inline-block;
+		margin-right: 30px;
+		vertical-align: top;
+	}
+	.con{
+		font-family: Helvetica Neue;
+		font-size: 36px;
+		font-weight: 700;
+		line-height: normal;
+		text-align: left;
+		color: #4E6FAE;
+		font-style: normal;
+		margin-bottom: 27px;
+
+		.padres{
+			font-family: Helvetica Neue LT GEO;
+			font-size: 20px;
+			font-weight: 400;
+			line-height: 24.14px;
+			text-align: left;
+			color: #3F4145;
+
+		}
+
+	}
+	 .pnum .gmail{
+		font-family: Helvetica Neue LT GEO;
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 24.14px;
+		text-align: left;
+		color: #3F4145;
+
+	}
+	span{
+		color: #7E8898;
+	}
